@@ -6,6 +6,8 @@
 
 using namespace std;
 
+//////// can't use guard to protect strtok  //////////
+
 //global number
 int shared = 0;
 
