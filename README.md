@@ -1,4 +1,4 @@
-# operating_sys_6
+# Operating Systems
 
 # part1_final folder :
 
