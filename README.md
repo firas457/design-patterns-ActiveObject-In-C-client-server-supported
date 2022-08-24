@@ -1,5 +1,5 @@
 # Operating Systems
-
+![patterns-05](https://user-images.githubusercontent.com/97015893/186420689-5391092d-6df8-43df-9f42-0f9756200207.png)
 # part1_final folder :
 
  ##### imple.hpp : 
